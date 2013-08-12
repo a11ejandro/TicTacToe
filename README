@@ -1,1 +1,6 @@
-This file was created by IntelliJ IDEA 12.1.4 for binding GitHub repository
+Features:
+1) Console interface
+2) Game type - Human vs Human on hotsit.
+3) Check for input errors (both field range and symbol mismatch).
+4) Player can undo moves.
+5) Game logick is able to process field of any (to MAX_INT-1) size.
